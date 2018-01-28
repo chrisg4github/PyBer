@@ -1,6 +1,6 @@
 # myPyBer Project
 
-![PyBer Project](ride.png)
+![PyBer Project](Ride.png)
 
 
 
